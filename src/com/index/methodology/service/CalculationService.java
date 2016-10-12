@@ -7,6 +7,7 @@ import com.index.methodology.factory.impl.CustomMethodologyB;
 
 /*
  * Calculation service for custom methodologies
+ * Returns corresponding class.
  */
 public class CalculationService {
 	
