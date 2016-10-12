@@ -5,7 +5,9 @@ import com.index.methodology.factory.IMethodology;
 import com.index.methodology.factory.impl.CustomMethodologyA;
 import com.index.methodology.factory.impl.CustomMethodologyB;
 
-
+/*
+ * Calculation service for custom methodologies
+ */
 public class CalculationService {
 	
 	public IMethodology getMethodology(String type){
